@@ -1,7 +1,7 @@
 # Setup
 title: Rui Li's Group
 tagline: Smart Cardiovascular Imaging
-url: https://leerui.github.com
+url: https://leerui.github.io
 paginate: 1
 baseurl: ""
 permalink: :title/
@@ -37,9 +37,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
+  name: Rui Li
+  email: leerui@gmail.com
 
 # Custom vars
 version: 1.3.0
