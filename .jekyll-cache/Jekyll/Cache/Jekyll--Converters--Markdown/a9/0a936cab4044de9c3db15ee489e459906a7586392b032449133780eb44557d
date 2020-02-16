@@ -1,0 +1,13 @@
+I"P<h1>Research Interest</h1>
+<p>My research focused on Cardiovascular Magnetic Resonance Imaging technique development, including Plaque Imaging and 4D Flow Imaging.</p>
+<h3 id="plaque-imaging">Plaque Imaging</h3>
+<p>We have developed 15 mins multi-contrast large coverage black blood imaging sequences for neurovascular plaque screening and vulnerable plaque discrimination. We have conducted multi-center trial with this technique in 14 imaging sites recruited more than 1,000 patients. We further investigated deep learning algorithm to analyze plaque image quality, plaque morphology and plaque composition automatically.</p>
+
+<p><img src="/assets/vesselwall.png" alt="Vessel Wall Imaging" />
+<img src="/assets/vesselwalldl.png" alt="Deep Learning based Plaque Analysis" /></p>
+
+<h3 id="4d-flow-imaging">4D Flow Imaging</h3>
+<p>We have developed partial separable complex difference constrained reconstruction algorithm with acceleration fact of 8. We further designed ‘real-time’ 2D phase contrast and 4D flow technique to acquire flow images of arrhythmia patients without cardiac triggering. We apply 4D flow to investigated hemodynamic features of intracranial aneurysm, pulmonary hypertension and pulsatile tinnitus. 
+<img src="/assets/acc4DFlow.png" alt="4D Flow Acceleration" />
+<img src="/assets/clinicalapp.png" alt="4D Flow Application" /></p>
+:ET
