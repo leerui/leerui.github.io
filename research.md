@@ -13,5 +13,5 @@ We have developed 15 mins multi-contrast large coverage black blood imaging sequ
 
 ### 4D Flow Imaging
 We have developed partial separable complex difference constrained reconstruction algorithm with acceleration fact of 8. We further designed ‘real-time’ 2D phase contrast and 4D flow technique to acquire flow images of arrhythmia patients without cardiac triggering. We apply 4D flow to investigated hemodynamic features of intracranial aneurysm, pulmonary hypertension and pulsatile tinnitus. 
-![4D Flow Acceleration](/assets/acc4DFlow.png)
+![4D Flow Acceleration](/assets/acc4Dflow.png)
 ![4D Flow Application](/assets/clinicalapp.png)

@@ -8,6 +8,6 @@
 
 <h3 id="4d-flow-imaging">4D Flow Imaging</h3>
 <p>We have developed partial separable complex difference constrained reconstruction algorithm with acceleration fact of 8. We further designed ‘real-time’ 2D phase contrast and 4D flow technique to acquire flow images of arrhythmia patients without cardiac triggering. We apply 4D flow to investigated hemodynamic features of intracranial aneurysm, pulmonary hypertension and pulsatile tinnitus. 
-<img src="/assets/acc4DFlow.png" alt="4D Flow Acceleration" />
+<img src="/assets/acc4Dflow.png" alt="4D Flow Acceleration" />
 <img src="/assets/clinicalapp.png" alt="4D Flow Application" /></p>
 :ET
