@@ -5,7 +5,7 @@ title: Home
 
 # First and Corresponding Author Publications
 <small>
-	1.	Zhang M#, Peng F#, Tong X, Feng X, Li Y, Chen H, Niu H, Zhang B, Song G, Li Y, Liu P, Liu A\*, **Li R**\*. Associations between haemodynamics and wall enhancement of intracranial aneurysm. Stroke and Vascular Neurology. 2021 Feb 25:svn-2020.<br />
+	1.	Zhang M#, Peng F#, Tong X, Feng X, Li Y, Chen H, Niu H, Zhang B, Song G, Li Y, Liu P, Liu A\*, **Li R**\*. Associations between haemodynamics and wall enhancement of intracranial aneurysm. Stroke and Vascular Neurology. 2021 Feb 25:svn-2020.<br /><br />
 	2.	Zhang M#, Peng F#, Li Y, He L, Liu A\*, **Li R**\*. Associations between morphology and hemodynamics of intracranial aneurysms based on 4D flow and black-blood magnetic resonance imaging. Quantitative Imaging in Medicine and Surgery. 2021 Feb;11(2):597.
 	3.	Wei H, Zhang M, Li Y, Zhao X, Canton G, Sun J, Xu D, Zhou Z, Chen S, Ferguson MS, Hatsukami T, **Li R**\*, Yuan C. Evaluation of 3D multi-contrast carotid vessel wall MRI: a comparative study. Quantitative Imaging in Medicine and Surgery. 2020 Jan;10(1):269.
 	4.	Peng F#, Zhang M#, Niu H, Feng X, Tong X, Zhang B, Yuan F, Yuan C, **Li R**\*, Liu A\*. Teaching Video NeuroImage: Wall enhancement with slow blood flow and thrombosis prior to basilar aneurysm rupture. Neurology. 2020 Sep 11:10-212.
