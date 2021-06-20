@@ -21,7 +21,7 @@ title: Home
 	14.	Zhou Z, **Li R**\*, Zhao X, He L, Wang X, Wang J, Balu N, Yuan C. Evaluation of 3D multi-contrast joint intra-and extracranial vessel wall cardiovascular magnetic resonance. Journal of Cardiovascular Magnetic Resonance. 2015 May 27;17(1):1.  <br />
 	15.	**Li R**, Zhao X, Ferguson MS, Yuan C. Distinguishing type I and type II hemorrhage by gradient echo based MR sequence in carotid atherosclerotic plaques. Journal of Cardiovascular Magnetic Resonance. 2010 Jan 1;12(Suppl 1):1-2.  <br />
 	16.	**Li R**, Zhang Y. Level Selection for Multiscale Fusion of Out-of-focus Image, IEEE Signal Processing Letters, 2005; 12(9):617-620.  <br />
-	17.	郑翊宸, 陈硕, 孙爱琦, 赵波, **李睿*\*. 无需心电门控与呼吸控制的心脏磁共振实时成像. 中国医学医学影像杂志. 2020; 28(7): 543-9 <br />
+	17.	郑翊宸, 陈硕, 孙爱琦, 赵波, **李睿**\*. 无需心电门控与呼吸控制的心脏磁共振实时成像. 中国医学医学影像杂志. 2020; 28(7): 543-9 <br />
 	18.	焦梓灵, 魏寒宇, 李继凡, 陈硕, 柴烨子, 刘启明, **李睿**\*, 姜萌. 基于 U-Net 神经网络的肥厚型心肌病与高血压性左心室肥厚磁共振图像定量分析与鉴别. 磁共振成像. 2020; 11(9): 741-6.<br />
 	19.	李继凡，陈硕，章强，宋焱，Gador Canton，孙杰，许东翔，赵锡海， 苑纯，**李睿**\*. 基于 U-Net 神经网络的多对比度磁共振影像颈动脉血管分割. 中华放射学杂志. 2019; 53(12):1091-5.<br />
 	20.	陈宇, 张宇, 周赜辰, 刘爱华, 刘鹏, **李睿**\*. 颅内动脉瘤 4D Flow MRI 与 CFD血流动力学参数测量的对比研究. 磁共振成像. 2016;7(8):613-7.  <br />
